@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "heyo_nbdev"
+  site-url: "https://oxbits.github.io/heyo_nbdev"
+  description: "heyo_nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/oxbits/heyo_nbdev"
