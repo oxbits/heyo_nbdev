@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://oxbits.github.io',
                 'git_url': 'https://github.com/oxbits/heyo_nbdev',
                 'lib_path': 'heyo_nbdev'},
-  'syms': {'heyo_nbdev.core': {'heyo_nbdev.core.foo': ('core.html#foo', 'heyo_nbdev/core.py')}}}
+  'syms': { 'heyo_nbdev.core': { 'heyo_nbdev.core.foo': ('heyo_nbdev.html#foo', 'heyo_nbdev/core.py'),
+                                 'heyo_nbdev.core.say_hello': ('heyo_nbdev.html#say_hello', 'heyo_nbdev/core.py')}}}
