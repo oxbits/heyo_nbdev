@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "heyo_nbdev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "heyo_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "heyo_nbdev",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall heyo_nbdev in Development mode\n# make sure heyo_nbdev package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to heyo_nbdev\n$ nbdev_prepare",
+    "crumbs": [
+      "heyo_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "heyo_nbdev",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/oxbits/heyo_nbdev.git\nor from conda\n$ conda install -c oxbits heyo_nbdev\nor from pypi\n$ pip install heyo_nbdev\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "heyo_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "heyo_nbdev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "heyo_nbdev"
+    ]
+  },
+  {
+    "objectID": "heyo_nbdev.html",
+    "href": "heyo_nbdev.html",
+    "title": "heyo_nbdev",
+    "section": "",
+    "text": "source\n\nsay_hello\n\ndef say_hello(\n    to\n):\n\nSay hello to somebody\n\nsource\n\n\nfoo\n\ndef foo(\n    \n):\n\nCall self as a function.",
+    "crumbs": [
+      "heyo_nbdev"
+    ]
+  }
+]
